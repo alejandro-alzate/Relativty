@@ -1,5 +1,10 @@
 # *El controlador*
+Take a look to this guide in [English](README.md)
 
-Para compilar tu código, no debes usar `Debug`, debes usar `Release` para compilar tus escrituras.
+Para compilar,
+`Debug` no debes usar,
+pero `Release` debes usar,
+Para tu runas recitar.
 
-Invocarás la ira del dios del compilador, si usas `Debug`.
+Si `Debug` vas a usar,
+la ira del dios compilador debes esperar...
